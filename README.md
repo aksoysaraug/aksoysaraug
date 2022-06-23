@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="200"/>
 </div>
+
 ​
 ---
 ​
+
 ### :man_technologist: About Me : I am a Automation QA Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
