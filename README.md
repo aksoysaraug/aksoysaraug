@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -30,6 +31,7 @@ Here are some ideas to get you started:
 ---
 ​
 ### :man_technologist: About Me : I am a Automation QA Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
 ​
 - :seedling: Exploring Technical Content Writing.
